@@ -1,1 +1,3 @@
-Key.shiftKey.shiftKey.caps_lock\x16
+<Shift>SKey.backspace<Shift>DKey.shift_r:
+cddKey.spaceKey.cmdv\x16
+pythonKey.spacecc.py
